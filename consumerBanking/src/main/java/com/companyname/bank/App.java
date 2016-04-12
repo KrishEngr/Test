@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Maven TEST RUN successful" );
+        System.out.println("check");
     }
 }
