@@ -28,6 +28,7 @@ public class App {
 		/*
 		 * N=7 K=3 
 		 * arr=10 100 300 200 1000 20 30
+		 enter
 		 */
 
 	}
